@@ -1,0 +1,6 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bvlnmurty/Practice_session_02Feb2026.git
+git push -u origin main   
